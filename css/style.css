@@ -55,12 +55,6 @@ transition: transform 0.3s ease-in-out;
     z-index: 1000;
 }
 
-/*.nav-list.open ul {*/
-/*  display: flex;
-  justify-content: space-between;
-}
-*/
-
 header.navbar-container {
   width: 100%;
   padding-block: 1rem;
@@ -512,7 +506,7 @@ footer p i .fas fa-heart:hover {
   .service img {
     width: 60px;
     height: 60px;
-/*    margin: 10px 20px;*/
+    margin-left: 3.2rem;
   }
 
   .service h2 {
