@@ -287,14 +287,14 @@ header h1 {
 .service img {
   width: 70px;
   height: 70px;
-  margin-bottom: 1em;
+/*  margin-bottom: 5rem;*/
   border-radius: 20%;
-  margin-left: 3.2rem;
+  margin: auto;
 }
 
 .layanan-kami h2 {
   font-size: 1.5em;
-  margin: 0;
+/*  margin: 0;*/
   text-align: center;
 }
 
@@ -506,7 +506,8 @@ footer p i .fas fa-heart:hover {
   .service img {
     width: 60px;
     height: 60px;
-    margin-left: 3.2rem;
+    margin: auto;
+    margin-bottom: .5rem;
   }
 
   .service h2 {
